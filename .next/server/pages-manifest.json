@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/about": "pages/about.html",
+  "/contact": "pages/contact.html",
+  "/faq": "pages/faq.html",
+  "/gallery": "pages/gallery.html",
+  "/index-2": "pages/index-2.html",
+  "/index-3": "pages/index-3.html",
+  "/": "pages/index.html",
+  "/news": "pages/news.html",
+  "/projects-1": "pages/projects-1.html",
+  "/projects-2": "pages/projects-2.html",
+  "/single-news": "pages/single-news.html",
+  "/single-project": "pages/single-project.html",
+  "/team-members": "pages/team-members.html",
+  "/404": "pages/404.html"
+}
